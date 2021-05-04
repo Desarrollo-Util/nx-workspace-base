@@ -41,6 +41,6 @@
 		"forceConsistentCasingInFileNames": true,
 		"importsNotUsedAsValues": "error",
 		"resolveJsonModule":true,
-		"skipLibCheck": true,
-	},
+		"skipLibCheck": true
+	}
 }
