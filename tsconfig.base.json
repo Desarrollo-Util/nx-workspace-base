@@ -28,7 +28,8 @@
 		"paths": {},
 		// LINTER CHECKS
 		"noFallthroughCasesInSwitch": true,
-		"noImplicitOverride": true,
+		// Needs Typescript 4.3 (currently in beta)
+		// "noImplicitOverride": true,
 		"noImplicitReturns": true,
 		"noUnusedLocals": true,
 		"noUnusedParameters": true,
