@@ -40,7 +40,7 @@
 		"allowUnreachableCode": false,
 		"allowUnusedLabels": false,
 		"forceConsistentCasingInFileNames": true,
-		"importsNotUsedAsValues": "error",
+		"importsNotUsedAsValues": "remove",
 		"resolveJsonModule":true,
 		"skipLibCheck": true
 	}
