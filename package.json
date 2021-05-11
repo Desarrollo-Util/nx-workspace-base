@@ -30,6 +30,7 @@
 		"tslib": "^2.2.0"
 	},
 	"devDependencies": {
+		"@learnthis/nx": "^0.0.13",
 		"@nrwl/cli": "11.6.3",
 		"@nrwl/tao": "11.6.3",
 		"@nrwl/workspace": "11.6.3",
